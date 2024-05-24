@@ -6,7 +6,7 @@ You can find this project in my personal website via this link
 
 In my role as a chemist, I'm passionate about ensuring smooth production and consistent product quality. To achieve this, I spearheaded a project implementing Statistical Process Control (SPC) to monitor our compounding polymer production.
 
-Leveraging the power of R programming, I utilized the qcc library to generate informative SPC charts. Additionally, I employed the tidyverse package for efficient data cleaning and preparation. To identify trends and filter out outliers, I incorporated box plots into the analysis.
+Leveraging the power of R programming, I utilized the ```qcc``` library to generate informative SPC charts. Additionally, I employed the ```tidyverse``` package for efficient data cleaning and preparation. To identify trends and filter out outliers, I incorporated box plots into the analysis.
 
 Furthermore, I streamlined the process by developing a custom function that automatically generates SPC charts for each product grade. This innovation not only improves efficiency but also ensures consistency in our quality control measures.
 
