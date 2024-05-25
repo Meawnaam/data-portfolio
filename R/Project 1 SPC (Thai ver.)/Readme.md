@@ -1,4 +1,4 @@
-## Building SPC (Statiscal process control) chart by using R programming
+# Building SPC (Statiscal process control) chart by using R programming
 
 Hi There!
 You can find this project in my personal website via this link
