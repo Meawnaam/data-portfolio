@@ -1,7 +1,7 @@
 # Exploratory data analysis : Automobile sale
 This project focus on the exploration and analysis of automobile sales data. The dataset, retrieved from Kaggle's [Automobile Sales Data](https://www.kaggle.com/datasets/ddosad/auto-sales-data/data) collection, serves as the foundation for this investigation.
 
-Leveraging the power of Python libraries, I employ NumPy for numerical computations, pandas for efficient data manipulation and analysis, Matplotlib for creating informative visualizations, and Seaborn to enhance the aesthetics and clarity of the generated plots.
+Leveraging the power of Python libraries, I employ `numpy` for numerical computations, `pandas` for efficient data manipulation and analysis, `matplotlib` for creating informative visualizations, and `seaborn` to enhance the aesthetics and clarity of the generated plots.
 
 Through this comprehensive approach, I aim to uncover valuable insights hidden within the data. The analysis will focus on understanding key trends, identifying patterns in customer behavior, and potentially revealing factors influencing sales performance.
 
