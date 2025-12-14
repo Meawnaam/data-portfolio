@@ -102,6 +102,7 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 |--------------------|-----------------|
 | No Risk            | 49              |
 | Risk               | 54              |
+<img width="1019" height="287" alt="image" src="https://github.com/user-attachments/assets/f01442e2-17e0-4f90-af7a-81256deb4ff0" />
 
 ### 📝 Interpretation  
 - **Age shows a direct and notable correlation** with CHD risk.  
@@ -127,6 +128,9 @@ whereas **age proves to be the dominant factor** for both males and females.
 | Female     | No Risk             | 49               |
 | Male       | Risk                | 54               |
 | Male       | No Risk             | 48               |
+
+<img width="955" height="638" alt="image" src="https://github.com/user-attachments/assets/4252b5c4-d04c-41ea-9468-897bf968a8f9" />
+
 
 ### 📝 Interpretation  
 - Differences between males and females are **small**, indicating gender does not strongly influence CHD risk.  
@@ -157,6 +161,7 @@ significantly outweighing the impact of high cholesterol.
 | Low glucose, medium cholesterol | No Risk             | 1,425     |
 | Low glucose, medium cholesterol | Risk                | 263       |
 
+<img width="963" height="649" alt="image" src="https://github.com/user-attachments/assets/1e9bf92e-58f6-4572-b088-3e93be1d2142" />
 
 ### 📝 Interpretation  
 - The **high glucose** group shows a **proportionally higher CHD risk**, even though the total sample size is smaller.  
@@ -180,6 +185,7 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 |-------------------|------------------------------|
 | High Glucose      | 141.405                      |
 | Normal Glucose    | 131.586                      |
+<img width="331" height="616" alt="image" src="https://github.com/user-attachments/assets/0e8f72d0-153e-4998-a5da-d87ea9ac55e0" />
 
 ### 📝 Interpretation  
 - Individuals with **high glucose levels** exhibit **notably higher systolic blood pressure**.  
@@ -206,6 +212,7 @@ This confirms a strong association between **higher BMI and increased CHD risk**
 | Underweight       | 0.14286                    |
 | Overweight        | 0.17309                    |
 | Obese             | 0.19824                    |
+<img width="425" height="623" alt="image" src="https://github.com/user-attachments/assets/bae3b670-50ce-40b1-829a-e5fe36b479b4" />
 
 
 ### 📝 Interpretation  
@@ -215,30 +222,6 @@ This confirms a strong association between **higher BMI and increased CHD risk**
 
 ---
 
-## 📊 Findings & Insights: Combined Risk Factors and Ten-Year CHD Risk
-
-### ❓ Key Question  
-**Does having multiple risk factors increase Ten-Year CHD risk compared to just one?**
-
-### 🧠 Insight Summary  
-**Multiple combined risk factors result in the highest CHD risk**,  
-significantly exceeding both single-risk and no-risk groups.
-
-### 📈 Average Ten-Year CHD Risk by Risk Level Group
-
-| **Risk Level Group**      | **Avg. Ten-Year CHD Risk** |
-|---------------------------|-----------------------------|
-| Multiple Risk Factors     | 0.2589                      |
-| One Risk Factor           | 0.1476                      |
-| No Risk Factor            | 0.0951                      |
-
-
-### 📝 Interpretation  
-- Individuals with **multiple risk factors** show the **highest predicted CHD risk**, more than double the no-risk group.  
-- Even **one risk factor** increases CHD probability compared to having none.  
-- These results highlight the **compounding effect of multiple risk factors**, emphasizing the importance of comprehensive prevention strategies.
-
----
 
 ## 💡 Conclusion of Findings and Insights
 
@@ -252,7 +235,4 @@ Based on our statistical analysis and data visualization, we identified several 
 * **Glucose vs. Cholesterol:** High glucose levels were identified as a dominant risk factor, significantly outweighing the impact of high cholesterol.
 * **The Glucose-BP Connection:** Elevated blood glucose is strongly associated with higher systolic blood pressure (approx. 141 mmHg vs. 131 mmHg), confirming a link to increased cardiovascular stress.
 * **BMI Trends:** There is a clear upward trend in risk associated with BMI. The 10-year CHD risk peaks at nearly **20% for the Obese group**, compared to approximately **12% for those with normal weight**.
-
-### 3. Combined Risk Effect
-* **The Multiplier Effect:** Having multiple risk factors simultaneously results in the highest probability of CHD, significantly exceeding the risk associated with any single factor alone.
 
